@@ -1,8 +1,11 @@
 # Hi, I'm Raginee 👋  
 
-🌟 **Software Engineer** with hands-on experience in **frontend development (HTML, CSS, JavaScript, Tailwind CSS, SASS, Bootstrap)**.  
+🌟 **Software Engineer** with 3.8 years of professional experience — including **2.8 years in frontend/UI development (HTML, CSS, JavaScript, TailwindCSS, SASS, Bootstrap)** and **1 year in a technical non-coding role**.  
+
 💻 Currently learning **Node.js & backend development**, and transitioning into **MERN Full-Stack Development** through Coding Ninjas.  
-📈 With 1+ year of experience in the tech industry (non-coding but technical role), I bring adaptability, problem-solving skills, and a passion for continuous learning.  
+
+📈 Skilled at building **responsive, user-friendly applications** and bringing strong problem-solving abilities, adaptability, and a passion for continuous learning.  
+
 
 ---
 
